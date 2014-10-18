@@ -19,8 +19,8 @@ Members should choose their team according to their knowledge and interests, Dev
 
 This is the proposed website structure:
 
-Home - (home page)
-Articles - (parent of all web development pages)
-Contact (contact page)
+Home - (home page)  
+Articles - (parent of all web development pages)  
+Contact (contact page)  
 
 
