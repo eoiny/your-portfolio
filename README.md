@@ -9,4 +9,5 @@
 
 **Check out the project documentation**  
 - [Project proposal](https://github.com/wddi/website/blob/docs/project-proposal.md)
+- [Development Guide](https://github.com/wddi/website/blob/docs/development-guide.md)
 
