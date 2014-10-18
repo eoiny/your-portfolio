@@ -31,4 +31,4 @@ Each feature must be developed in its own branch.
 
 ## Testing
 
-It is desirable that all project have a 100% code coverage. Every new feature or code change is expected to be tested by any automated test tool being used in the project.
+It is desirable that the project have a 100% code coverage. Every new feature or code change is expected to be tested by any automated test tool being used in the project.
