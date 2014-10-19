@@ -6,15 +6,15 @@
 
 ### Master
 
-The `master` branch have the latest stable version of the application. **It must not be used for development**.
+The `master` branch will contain the latest stable version of the application. **It must not be used for development**.
 
 ### Test
 
-The `test` branch is similar to the `master` branch. It is used to have all the new code tested before release.
+The `test` branch is similar to the `master` branch. It is used to test all the new code before release.
 
 ### Docs
 
-The `docs` branch have all documentation files. The prefered file format is **markdown** but other formats can be used if needed. No code must be pushed to this branch unless it is realted to the documentation. Anyone can work directly on this branch, there is no need to create a new branch for every update as it is required for the `master` branch.
+The `docs` branch contains all documentation files. The preferred file format is **markdown** but other formats can be used if needed. No code must be pushed to this branch unless it is related to the documentation. Anyone can work directly on this branch, there is no need to create a new branch for every update as it is required for the `master` branch.
 
 ### Others
 
@@ -27,7 +27,7 @@ Each feature must be developed in its own branch.
 3. Push the branch to github.
 4. Someone who is not the developer of this branch must evaluate/test the code.
   - If the code is working fine it can be merged in the master branch.
-  - If the code have any issue it must be reported and the development goes back to item 2.
+  - If the code has any issue it must be reported and the development goes back to item 2.
 
 ## Testing
 
