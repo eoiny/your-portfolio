@@ -1,11 +1,11 @@
 # Your portfolio
 
-**Chat with one of our members in our group chat.**  
+**Check who is online right now and let's have a chat about this project!**  
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/wddi?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 
 
-# What are we going to do exactly?
+## What are we going to do exactly?
 
 The purpose of this project is to have the Web Designers & Developers Ireland group practice their skills, share and learn about web development and design.
 
