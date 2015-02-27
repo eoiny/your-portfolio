@@ -24,5 +24,5 @@ I would suggest that we leave the master for the moment and that we create our o
 I'm sure that some of you, who don't know Github yet, are saying: "What the f*** are you talking about?" 
 Don't worry, we'll explain, we won't leave you behind! ;)
 
-## That's your present!
+## That's for you!
 After this project is finished and we make a beautiful portfolio, feel free to use the code for yourself, add your own text and your own pictures, if you don't have a portfolio yet! 
