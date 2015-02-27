@@ -19,7 +19,7 @@ Yes indeed, but the idea is learn to work together and use Git & Github. Don't w
 ## What languages can we use?
 No! We'll start with HTML, CSS and Javascript. The website must be compatible with most modern browsers (and Internet Explorer from verion 9) and responsive (adaptable to mobile devices).
 
-## Let us leave the Master in peace for the moment!
+## Let's leave the Master in peace for the time being...
 I would suggest that we leave the master for the moment and that we create our own branch, and we'll merge later on.
 I'm sure that some of you, who don't know Github yet, are saying: "What the f*** are you talking about?" 
 Don't worry, we'll explain, we won't leave you behind! ;)
