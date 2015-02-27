@@ -1,6 +1,6 @@
 # Your portfolio
 
-(This document is the plan of the project and will be updated regularly. I made sure not to use to many technical words for people who will start with Git & Github)
+(This document is the plan of the project and will be updated regularly. I made sure not to use too many technical words for people who will start with Git & Github)
 
 **Check who is online right now and let's have a chat about this project!**  
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/wddi?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
