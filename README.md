@@ -20,4 +20,4 @@ I'm sure that some of you, who don't know Github yet, are saying: "What the f***
 Don't worry, we'll explain, we won't leave you behind! ;)
 
 ## That's your present!
-After this project is finished and we make a beautiful portfolio, feel free to use the code for yourself, add your own text and your own pictures, if you don't have a portfolio! 
+After this project is finished and we make a beautiful portfolio, feel free to use the code for yourself, add your own text and your own pictures, if you don't have a portfolio yet! 
