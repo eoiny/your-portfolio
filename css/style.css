@@ -1,0 +1,56 @@
+body {
+	background - color: #fff;
+	color: #000;
+	font-family: "Arial";
+}
+
+#container {
+	margin: auto;
+	position: relative;
+
+}
+
+#menu {
+	margin: auto;
+	font-size: 11px;
+	width: 100%;	
+	display:table;
+}
+
+.menuframe {
+	margin-left : auto;
+	margin-right: auto;
+	display:table;
+	float: left;
+}
+
+.socialframe {
+	margin-left : auto;
+	margin-right: auto;
+	display:table;
+	float: right;
+}
+
+#menu .ul {
+	float: left;
+	margin: 0; /* means border is zero*/
+	padding-top: 30px;
+	list-style-type: none; /*means no bullet points*/
+	}
+
+
+#menu li{
+display: inline; /* make buttons align horizontally */
+}
+
+.button{
+
+}
+
+/*#content {
+	position: relative;
+	float: left;
+	margin: 0;
+	padding: 0;
+
+}*/
